@@ -1,8 +1,8 @@
 # Portfolio
 [Visit Portfolio](https://waqasahmedportfolio.netlify.app/)
-# 🌐 Waqas Ahmed — Personal Portfolio Website
+# 🌐 Waqas Ahmed - Personal Portfolio Website
 
-> A fully responsive, single-file personal portfolio for **Waqas Ahmed** — AI Developer & Full Stack Engineer — featuring a dark/light theme toggle, skills filtering, scroll animations, an AI-powered chatbot assistant, and three role-specific downloadable CVs.
+> A fully responsive, single-file personal portfolio for **Waqas Ahmed** - AI Developer & Full Stack Engineer - featuring a dark/light theme toggle, skills filtering, scroll animations, an AI-powered chatbot assistant, and three role-specific downloadable CVs.
 
 ---
 
